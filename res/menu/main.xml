@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="schemas.android.com/apk/res/android"
+    tools:context="com.labs.dailyselfie.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:showAsAction="always"
+        android:title="@string/selfie"
+        android:icon="@drawable/camera_icon"/>
+
+</menu>
